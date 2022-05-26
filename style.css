@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5ejaA64atkeqgRSFomH0mMgbIwNqVodepw&usqp=CAU);
+    background-repeat: no-repeat;
+   /* background-color: aqua; */
+}
+.footer{
+    background: rgb(66, 12, 225);
+    height: 50px;
+    margin-top: 50px;
+    color: #fff;
+    padding-top: 10px;
+   text-align: center;
+  font-size: medium;
+}
+h1{
+    background: rgb(172, 228, 237);
+    height: 50px;
+    margin-top: 50px;
+    color: #fff;
+    padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+}
+#game p{
+    font-size: 25px;
+}
+ #guess-btn :hover
+ {
+background-color: red;
+}
